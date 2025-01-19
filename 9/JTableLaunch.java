@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Main {
+public class JTableLaunch {
     public static void main(String[] args) {
         // Запрос у пользователя количества строк и столбцов
         String rowsInput = JOptionPane.showInputDialog("Введите количество строк:");
